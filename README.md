@@ -6,10 +6,10 @@ The rest goes back upstream, into the open source software I use every day. That
 
 ## Open in your browser
 
-- **[super-kart-3djs](https://fecolinhares.github.io/super-kart-3djs/)**: cartoon kart racer with drift, items, turbo pads and AI rivals. Every texture and sound is generated at runtime, with zero external assets. [Source](https://github.com/fecolinhares/super-kart-3djs).
-- **[match-3djs](https://fecolinhares.github.io/match-3djs/)**: match-3 puzzle on Three.js, with a lo-fi soundtrack composed in code and controls for mouse, keyboard and touch. [Source](https://github.com/fecolinhares/match-3djs).
 - **[BPMfinder](https://fecolinhares.github.io/BPMfinder/)**: instant tempo detection on essentia.js WASM. Your audio file stays on your machine. [Source](https://github.com/fecolinhares/BPMfinder).
 - **[ChordsFinder](https://fecolinhares.github.io/ChordsFinder/)**: chord and key detection for any track you drop in, computed locally in the browser. [Source](https://github.com/fecolinhares/ChordsFinder).
+- **[match-3djs](https://fecolinhares.github.io/match-3djs/)**: match-3 puzzle on Three.js, with a lo-fi soundtrack composed in code and controls for mouse, keyboard and touch. [Source](https://github.com/fecolinhares/match-3djs).
+- **[super-kart-3djs](https://fecolinhares.github.io/super-kart-3djs/)**: cartoon kart racer with drift, items, turbo pads and AI rivals. Every texture and sound is generated at runtime, with zero external assets. [Source](https://github.com/fecolinhares/super-kart-3djs).
 
 ## Contributing upstream
 
